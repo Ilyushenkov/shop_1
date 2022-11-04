@@ -96,7 +96,7 @@
 phpinfo();
 $a=1;
 $a+=2;
-echo $a;
+
 ?>
 <div class="container text-center">
     <div class="row">
